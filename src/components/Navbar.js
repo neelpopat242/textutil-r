@@ -41,5 +41,5 @@ Navbar.propTypes = {
 
 Navbar.defaultProps = {
     title :'TextUtils',
-    aboutus:'About Us'
+    aboutus:'About Devs'
   };

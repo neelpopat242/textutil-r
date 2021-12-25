@@ -1,6 +1,6 @@
 {
+  "homepage": "https://neelpopat242.github.io/textutil-r",
   "name": "my-app",
-  "homepage": "https://neelpopat242.github.com/textutils-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
